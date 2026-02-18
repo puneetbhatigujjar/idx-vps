@@ -11,9 +11,9 @@ display_header() {
     cat << "EOF"
 ========================================================================
 Sponsor By These Guys!                                                                  
-HOPINGBOYZ
-Jishnu
-NotGamerPie
+UPGAMER
+YOUTUBE CHANNEL - @gamerofup
+
 ========================================================================
 EOF
     echo
